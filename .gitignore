@@ -18,3 +18,4 @@ project.properties
 # Eclipse project files
 .classpath
 .project
+.settings/
